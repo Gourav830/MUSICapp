@@ -4,6 +4,8 @@ import FeaturedCourses from "@/components/FeaturedCourses";
 import WhyUs from "@/components/WhyUs";
 import AutoScrollCards from "@/components/AutoScrollCards";
 import Webinar from '../components/webinar';
+import Instructors from "@/components/Instrustores";
+import Footer from "@/components/footer";
 export default function Home() {
   return (
     <main className="min-h-screen bg-black/[0.96] antialiased bg-grid-white/[0.02]">
@@ -12,6 +14,8 @@ export default function Home() {
       <WhyUs />
       <AutoScrollCards />
       <Webinar/>
+      <Instructors/>
+      <Footer/>
     </main>
   );
 }
