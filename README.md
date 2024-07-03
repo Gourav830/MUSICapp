@@ -97,7 +97,7 @@ For further inquiries, please contact us at:
 
 - Email: contact@musicacademy.com
 - Phone: +1 (123) 456-7890
-- Website: [www.musicacademy.com](https://www.musicacademy.com](https://nextjs-fx7682p96-gouravs-projects-999bcded.vercel.app/)
+- Website:  [https://nextjs-fx7682p96-gouravs-projects-999bcded.vercel.app/](https://nextjs-fx7682p96-gouravs-projects-999bcded.vercel.app/)
 
 ---
 
