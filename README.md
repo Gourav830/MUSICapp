@@ -61,10 +61,8 @@ Run Music Academy locally:
 ```bash
 npm start
 ```
-OR
-```bash
-npm run dev
-```
+
+
 
 Visit `http://localhost:3000` in your web browser to view the application.
 
