@@ -1,6 +1,4 @@
-Check out -  [https://nextjs-fx7682p96-gouravs-projects-999bcded.vercel.app/](https://nextjs-fx7682p96-gouravs-projects-999bcded.vercel.app/)
-
-
+Check out -  [https://nextjs-fx7682p96-gouravs-projects-999bcded.vercel.app/](https://nextjs-eta-two-26.vercel.app/)
 # Music Academy
 
 Music Academy is an educational platform dedicated to nurturing musical talent through expert-led courses and interactive learning experiences.
@@ -93,7 +91,7 @@ For further inquiries, please contact us at:
 
 - Email: contact@musicacademy.com
 - Phone: +1 (123) 456-7890
-- Website:  [https://nextjs-fx7682p96-gouravs-projects-999bcded.vercel.app/](https://nextjs-fx7682p96-gouravs-projects-999bcded.vercel.app/)
+- Website: [https://nextjs-fx7682p96-gouravs-projects-999bcded.vercel.app/](https://nextjs-eta-two-26.vercel.app/)
 
 ---
 
