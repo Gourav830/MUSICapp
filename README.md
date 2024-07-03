@@ -37,9 +37,8 @@ Music Academy offers a diverse range of courses designed to cater to musicians o
 To get started with Music Academy locally, follow these steps:
 
 1. Clone the repository:
-
    ```bash
-  [ git clone https://github.com/your-username/music-academy.git](https://github.com/Gourav830/MUSICapp.git)
+   git clone https://github.com/your-username/music-academy.git
    ```
 
 2. Navigate into the project directory:
