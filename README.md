@@ -1,10 +1,6 @@
 Check out -  [https://nextjs-fx7682p96-gouravs-projects-999bcded.vercel.app/](https://nextjs-fx7682p96-gouravs-projects-999bcded.vercel.app/)
 
 
-Certainly! Here's a README file template based on the information provided for your project "Music Academy":
-
----
-
 # Music Academy
 
 Music Academy is an educational platform dedicated to nurturing musical talent through expert-led courses and interactive learning experiences.
@@ -20,7 +16,7 @@ Music Academy is an educational platform dedicated to nurturing musical talent t
 - [Contact Us](#contact-us)
 
 ## Introduction
-
+This project is build with nextjs tailwind css and type script also ui.aceternity library components are used
 Music Academy offers a diverse range of courses designed to cater to musicians of all skill levels. Whether you're a beginner looking to learn the basics or an advanced student aiming to master a specific instrument, our platform provides the resources and guidance you need to succeed.
 
 ## Features
